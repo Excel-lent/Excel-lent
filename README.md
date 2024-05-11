@@ -1,4 +1,4 @@
-### VBA fan
+# VBA fan
 
 <!--
 ![Some statistics](https://github-readme-stats.vercel.app/api?username=Excel-lent&show_icons=true&theme=radical)

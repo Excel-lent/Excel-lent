@@ -4,7 +4,7 @@
 ![Some statistics](https://github-readme-stats.vercel.app/api?username=Excel-lent&show_icons=true&theme=radical)
 -->
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Excel-lent&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Excel-lent/Excel-lent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
